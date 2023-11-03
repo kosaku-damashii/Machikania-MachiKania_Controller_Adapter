@@ -1,4 +1,5 @@
 # Machikania-MachiKania_Controller_Adapter
+![DSC09667](https://github.com/kosaku-damashii/Machikania-MachiKania_Controller_Adapter/assets/62051355/bb6466e1-f492-436c-9bc5-74971ce5a681)
 
 MachiKania Controller Adapterは、ケンケンさん、Katusmiさんが作られた、MachiKania type Mに外部コントローラを接続するためのアダプターです。<BR>
 
